@@ -43,4 +43,4 @@ def preprocess(out_filename):
 
 if __name__ == '__main__':
   jieba.dt.cache_file = 'jieba.cache.new'
-  preprocess('QScorpus.txt')
+  preprocess('corpus.txt')
