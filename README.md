@@ -8,5 +8,7 @@ YEEEE backup
 3. To test the word2vec model, use "python3.5 demo.py" and type the model's file name which you want to use. For more details, read the codes XD.
 
 ** RNN and Pytorch-seq2seq:
+
 RNN: git clone https://github.com/willywsm1013/RNN-language-model.git
+
 Py-seq2seq: git clone https://github.com/willywsm1013/RNN-language-model.git
